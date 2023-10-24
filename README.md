@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvvlladimir&label=Profile%20views&color=d95000&style=flat" alt="vvvlladimir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/varvorkin" target="blank"><img src="https://img.shields.io/twitter/follow/varvorkin?logo=twitter&style=for-the-badge" alt="varvorkin" /></a> </p>
 
 - 🔭 I’m currently working on [Attitude-Visualizer](https://github.com/vvvlladimir/Attitude-Visualizer)
 
