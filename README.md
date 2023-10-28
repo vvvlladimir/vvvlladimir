@@ -10,7 +10,7 @@ Greetings. My name is Vladimir Varvorkin, and I am a computer science student cu
 - **Web Development:** Comprehensive background in both frontend and backend development, with proficiency in HTML, CSS, JavaScript, Python, Bootstrap, MySQL, SASS, and PHP.
   
 ## Notable Projects 📂
-- [Attitude Visualizer](https://github.com/vvvlladimir/Attitude-Visualizer.git): A specialized tool designed for the effective visualization of attitude data.
+- [Attitude Visualizer](https://github.com/vvvlladimir/Attitude-Visualizer.git): Emoji-Based Telegram Post Analytics.
 
 ## Additional Skills 🎨
 - **Design Software:** Competent in using Photoshop and Figma for graphic design purposes.
