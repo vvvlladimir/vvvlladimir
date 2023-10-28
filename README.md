@@ -1,27 +1,28 @@
-<h1 align="center">Hi 👋, I'm Vladimir</h1>
-<h3 align="center">Computer science student from Russia, currently living and studying in Germany</h3>
+# Vladimir Varvorkin 👨‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvvlladimir&label=Profile%20views&color=d95000&style=flat" alt="vvvlladimir" /> </p>
+## Introduction 📚
+Greetings. My name is Vladimir Varvorkin, and I am a computer science student currently enrolled in a German university. Originally from Russia 🇷🇺, I have relocated to Germany 🇩🇪 to further my academic and professional pursuits. My areas of expertise lie in data analysis, software development, and web technologies.
 
+## Specializations 🛠️
+- **Data Analysis:** Proficient in aggregating and processing large-scale data sets.
+- **Data Visualization:** Experienced in translating complex data into intuitive visual representations.
+- **Programming Languages:** Fluent in Python and have a working knowledge of Swift.
+- **Web Development:** Comprehensive background in both frontend and backend development, with proficiency in HTML, CSS, JavaScript, Python, Bootstrap, MySQL, SASS, and PHP.
+  
+## Notable Projects 📂
+- [Attitude Visualizer](https://github.com/vvvlladimir/Attitude-Visualizer.git): A specialized tool designed for the effective visualization of attitude data.
 
-- 🔭 I’m currently working on [Attitude-Visualizer](https://github.com/vvvlladimir/Attitude-Visualizer)
+## Additional Skills 🎨
+- **Design Software:** Competent in using Photoshop and Figma for graphic design purposes.
+- **3D Modeling:** My work in this domain can be viewed on my [CGTrader profile](https://www.cgtrader.com/vvvlladimir).
 
-- 🌱 I’m currently learning **Python and Swift**
+## Professional Networks 🌐
+- [LinkedIn Profile](https://www.linkedin.com/in/vvvlladimir/)
+- [Twitter(X) Account](https://twitter.com/varvorkin)
 
-- 📝 I regularly write articles on [https://twitter.com/varvorkin](https://twitter.com/varvorkin)
+## Contact Information 📧
+For collaborations, project inquiries, or further information, you may reach out via my social media channels or directly through GitHub.
 
-- 💬 Ask me about **frontend web-development**
-
-- 📫 How to reach me **vvvlladimir@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/varvorkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varvorkin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vvvlladimir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vvvlladimir" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
+---
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/vvvlladimir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/vvvlladimir" /></a></p><br><br>
