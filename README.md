@@ -21,7 +21,7 @@ Greetings. My name is Vladimir Varvorkin, and I am a computer science student cu
 - [Twitter(X) Account](https://twitter.com/varvorkin)
 
 ## Contact Information 📧
-For collaborations, project inquiries, or further information, you may reach out via my social media channels or directly through GitHub.
+For collaborations, project inquiries, or further information, you may reach out via my social media channels, directly through GitHub, or via email at [e-mail](mailto:vvvlladimir@gmail.com).
 
 ---
 <h3 align="left">Support:</h3>
