@@ -18,7 +18,7 @@ Greetings. My name is Vladimir Varvorkin, and I am a computer science student cu
 
 ## Professional Networks 🌐
 - [LinkedIn Profile](https://www.linkedin.com/in/vvvlladimir/)
-- [Twitter(X) Account](https://twitter.com/varvorkin)
+- [Telegram](https://t.me/vvvlladimir)
 
 ## Contact Information 📧
 For collaborations, project inquiries, or further information, you may reach out via my social media channels, directly through GitHub, or via email at [e-mail](mailto:vvvlladimir@gmail.com).
