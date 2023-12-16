@@ -11,6 +11,7 @@ Greetings. My name is Vladimir Varvorkin, and I am a computer science student cu
   
 ## Notable Projects 📂
 - [Attitude Visualizer](https://github.com/vvvlladimir/Attitude-Visualizer.git): Emoji-Based Telegram Post Analytics.
+- [Tempus](https://github.com/vvvlladimir/Tempus.git): Time Tracking Bot for Work.
 
 ## Additional Skills 🎨
 - **Design Software:** Competent in using Photoshop and Figma for graphic design purposes.
