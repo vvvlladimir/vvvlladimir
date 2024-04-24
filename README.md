@@ -25,5 +25,3 @@ Greetings. My name is Vladimir Varvorkin, and I am a computer science student cu
 For collaborations, project inquiries, or further information, you may reach out via my social media channels, directly through GitHub, or via [email](mailto:vvvlladimir@gmail.com).
 
 ---
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/vvvlladimir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/vvvlladimir" /></a></p><br><br>
