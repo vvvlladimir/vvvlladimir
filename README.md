@@ -1,7 +1,6 @@
 # Vladimir Varvorkin 
 
-## Professional Networks 🌐
-- [LinkedIn Profile](https://www.linkedin.com/in/vvvlladimir/)
+## Networks 🌐
 - [Telegram](https://t.me/vvvlladimir)
 
 ---
